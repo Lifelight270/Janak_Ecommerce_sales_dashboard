@@ -1,0 +1,12 @@
+Order Id,Amount,Profit,Quantity,Category,Sub-Category,Payment Method
+B-26065,1056,256,5,Electronics,Electronic Games,COD
+B-26055,450,261,10,Furniture,Chairs,EMI
+B-26056,102,897,50,Clothing,Trousers,Credit Card
+B-26057,5680,-231,100,Clothing,Saree,Credit Card
+B-26058,2154,584,30,Furniture,Bookcases,Credit Card
+B-26059,3210,25,50,Clothing,Kurti,EMI
+B-26060,254,-214,40,Electronics,Phones,COD
+B-26061,9801,765,15,Electronics,Printers,COD
+B-26062,6428,92,34,Clothing,Shirt,EMI
+B-26063,428,492,4,Clothing,Shirt,EMI
+B-26064,642,982,7,Clothing,Shirt,EMI
